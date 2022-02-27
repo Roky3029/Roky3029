@@ -1,11 +1,17 @@
-### Hi everyone seeing this profile
+### Hi everyone seeing this profile👋
 
 ```js
 const roky = {
   name: "Roky",
   country: "Spain",
+  languages: ['Spanish', 'English', 'French']
+  webs: [
+    '[Adivina el elemento](https://adivinaelemento.netlify.app)'  
+    ]
 }
 ```
+
+
 
 <!--
 **Roky3029/Roky3029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
