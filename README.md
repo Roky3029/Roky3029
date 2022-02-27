@@ -5,12 +5,10 @@ const roky = {
   name: "Roky",
   country: "Spain",
   languages: ['Spanish', 'English', 'French']
-  webs: [
-    '[Adivina el elemento](https://adivinaelemento.netlify.app)'  
-    ]
 }
 ```
-
+##### Here are some webs I made 
+[Adivina el elemento](https://adivinaelemento.netlify.app)
 
 
 <!--
