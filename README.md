@@ -1,4 +1,4 @@
-### Hi everyone seeing this profile👋
+### Hola a todos los que están viendo este perfil👋 / Hi everyone seeing this profile👋
 
 ```js
 const roky = {
@@ -7,21 +7,8 @@ const roky = {
   languages: ['Spanish', 'English', 'French']
 }
 ```
-##### Here are some webs I made👀:
+##### Aqui están algunas páginas que he hecho👀 / Here are some webs I made👀:
+
 [Adivina el elemento](https://adivinaelelemento.netlify.app)
 
-
-<!--
-**Roky3029/Roky3029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adivina El Elemento es una página web en la que un símbolo de un elemento aleatorio de la tabla periódica se mostrara en pantalla y tendras que decir de que elemento se trata. Cuenta con una tabla periódica para ayudarte a aprenderte los elementos (**actualmente solo disponible en ordenador**) y un buscador 
