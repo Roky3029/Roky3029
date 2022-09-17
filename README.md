@@ -11,9 +11,5 @@ Adivina El Elemento es una página web en la que un símbolo de un elemento alea
 
 TaskR es una aplicación de gestión de tareas que te permite no solo crear, editar, leer y eliminar tus tareas, sino que también cuenta con las "Empresas", con la que podrás unirte a tu empresa o grupo de trabajo y crear tareas compartidas entre todos, aunque en la salida de la página no sera muy potente, un tiempo después de la salida, recibira una actualización que mejorara este sistema.
 
-- Calculadora eléctrica (En desarrollo)
-
-Esta calculadora eléctrica te permitira hacer los cálculos de la Ley de Ohm facilmente, con simplemente escribir las unidades requeridas para hacer los calculos, ya tendras el resultado con sus unidades correspondientes.
-
 #### Si te ha gustado lo que has leido, te invito a seguirme en Instagram, donde publicaré cualquier novedad relacionada con mis páginas: 
 [@kirkydev_30](https://www.instagram.com/kirkydev_30/) 
