@@ -7,9 +7,5 @@
 
 Adivina El Elemento es una página web en la que un símbolo de un elemento aleatorio de la tabla periódica se mostrara en pantalla y tendras que decir de que elemento se trata. Cuenta con una tabla periódica para ayudarte a aprenderte los elementos y un buscador 
 
-- TaskR (En desarrollo)
-
-TaskR es una aplicación de gestión de tareas que te permite no solo crear, editar, leer y eliminar tus tareas, sino que también cuenta con las "Empresas", con la que podrás unirte a tu empresa o grupo de trabajo y crear tareas compartidas entre todos, aunque en la salida de la página no sera muy potente, un tiempo después de la salida, recibira una actualización que mejorara este sistema.
-
 #### Si te ha gustado lo que has leido, te invito a seguirme en Instagram, donde publicaré cualquier novedad relacionada con mis páginas: 
 [@kirkydev_30](https://www.instagram.com/kirkydev_30/) 
