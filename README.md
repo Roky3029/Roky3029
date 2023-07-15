@@ -6,6 +6,3 @@
 - [Adivina el elemento](https://adivinaelelemento.netlify.app)
 
 Adivina El Elemento es una página web en la que un símbolo de un elemento aleatorio de la tabla periódica se mostrara en pantalla y tendras que decir de que elemento se trata. Cuenta con una tabla periódica para ayudarte a aprenderte los elementos y un buscador 
-
-#### Si te ha gustado lo que has leido, te invito a seguirme en Instagram, donde publicaré cualquier novedad relacionada con mis páginas: 
-[@kirkydev_30](https://www.instagram.com/kirkydev_30/) 
