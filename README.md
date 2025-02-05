@@ -14,4 +14,7 @@ I'm Miguel, a computer sciente student at the Universitat Politècnica de Valèn
     (NOTE: This project now is not working due to the shutdown of the API, and because I did not find any suitable replacement API)
 
 
-If, for any reason, you wish to contact me, you can write me to <code>mikirb30@gmail.com</code>
+If, for any reason, you wish to contact me, you can write me to <code>mjibarb30@gmail.com</code>
+
+> If men should read these words, let them know that power is a heavy burden. Seek not to be bound by its chains.
+> - Brandon Sanderson
