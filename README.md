@@ -14,4 +14,4 @@ I'm Miguel, a computer sciente student at the Universitat Politècnica de Valèn
     (NOTE: This project now is not working due to the shutdown of the API, and because I did not find any suitable replacement API)
 
 
-If, for any reason, you wish to contact me, you can write me to [this email](emailto:mikirb30@gmail.com)
+If, for any reason, you wish to contact me, you can write me to <code>mikirb30@gmail.com</code>
