@@ -2,7 +2,9 @@
 
 #### Hey! :)
 <br>
-I'm Miguel, a computer sciente student at the Universitat Politècnica de València. I'm currently focused on web development although I have not ruled out other areas. 
+I'm Miguel, a computer sciente student at the Universitat Politècnica de València. I'm currently focused on web development although I have not ruled out other areas.
+
+[Personal portfolio](https://miguelr.vercel.app)
 <br>
 <br>
 
